@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Pokémon GBA's"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Daniel Jose Sagun"
+#   email = "youremail@example.com"
+  image = "skull icon.jpg"
+#   imageQuality = 96
+  headline = "BSIT 3-1"
+#   bio = "A little bit about you"
+  links = [
+    { discord = "https://discord.gg/invitecode" },
+    { facebook = "https://facebook.com/djvsagun" },
+    { youtube = "https://youtube.com/username" },
+  ]

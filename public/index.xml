@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pokémon GBA&#39;s</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Pokémon GBA&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Daniel Jose Sagun</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about-me/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about-me/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Blue</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-blue/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-blue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Crystal</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-crystal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-crystal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Emerald</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-emerald/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-emerald/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Gold</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-gold/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-gold/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Red</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-red/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-red/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Ruby</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-ruby/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-ruby/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Sapphire</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-sapphire/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-sapphire/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Silver</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-silver/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-silver/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pokemon Yellow</title>
+      <link>//localhost:1313/pokemon-roms/pokemon-yellow/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pokemon-roms/pokemon-yellow/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
